@@ -47,7 +47,7 @@ product repository.
 
 
 
-## License Nature
+## Agreement Nature
 
 To comply with [PlainLanguage.gov](https://plainlanguage.gov/guidelines/),
 You have to read the license files directly. It must be easily readable for
@@ -93,5 +93,5 @@ This workspace and repository is published under
 The latest license files shall be referenced and be downloadable from:
 
 ```
-https://doi.org/TBD
+https://doi.org/10.5281/zenodo.13997193
 ```

@@ -44,6 +44,11 @@ abstract: |-
   If you cannot parse or understand any part of the license, that means the
   license has not fully achieve the guideline yet. In that case, please file a
   query issue (https://github.com/ChewKeanHo/agreement-model-release/issues).
+
+  Currently these are the supported languages.
+
+  1. International English (`en`); AND
+  2. 国际简单华语 (`zh-hans`)
 message: |-
   Please cite and reference this repository accordingly.
 authors:

@@ -59,6 +59,15 @@ license has not fully achieve the guideline yet. In that case, please file a
 
 
 
+### Supported Languages
+
+Currently these are the supported languages.
+
+1. International English (`en`)
+2. 国际简单华语 (`zh-hans`)
+
+
+
 
 ## Credits
 
